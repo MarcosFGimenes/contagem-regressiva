@@ -21,7 +21,7 @@ O projeto foi uma introdução às ferramentas básicas de desenvolvimento web, 
 
 1. Clone o repositório para o seu computador:
    ```bash
-   git clone https://github.com/marcosgimenesclass/Aula-1.git
+   git clone https://github.com/MarcosFGimenes/contagem-regressiva.git
    ```
 
 2. Abra o arquivo `index.html` no seu navegador para visualizar o projeto em funcionamento.
