@@ -7,9 +7,11 @@ Este é um projeto desenvolvido por mim durante o Ensino Médio, como parte das 
 O projeto foi uma introdução às ferramentas básicas de desenvolvimento web, com o objetivo de aprender como construir páginas estáticas e aplicar algumas interações simples usando JavaScript.
 
 ### Tecnologias Utilizadas:
-- **HTML**: Estrutura básica da página.
-- **CSS**: Estilo e layout da página.
-- **JavaScript**: Funcionalidades interativas.
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) - Estrutura básica da página.
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white
+) - Estilo e layout da página.
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E
+) - Funcionalidades interativas.
 
 ## Estrutura do Projeto
 
